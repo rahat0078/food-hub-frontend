@@ -1,0 +1,7 @@
+export default function ProviderOrders(){
+    return (
+        <div>
+            <h1>page page</h1>
+        </div>
+    )
+}
